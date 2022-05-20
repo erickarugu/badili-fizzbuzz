@@ -3,7 +3,7 @@ import { Express, Request, Response } from "express";
 export interface IInput {
   input: number;
 }
-enum OutputOptions {
+export enum OutputOptions {
   L = "L",
   R = "R",
   LR = "LR",
