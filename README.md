@@ -1,5 +1,5 @@
 # badili-fizzbuzz
-- Badili Africa Interview Backend Code challeng.
+- Badili Africa Interview Backend Code challenge.
 - Developed using Typescript.
 
 ## Development Server
